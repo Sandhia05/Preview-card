@@ -1,0 +1,114 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: rgb(13, 26, 45);
+}
+.main{
+    height: 430px !important;
+    width: 270px;
+    margin-left: 550px;
+    margin-top: 120px;
+    border: 2px solid rgb(21, 39, 63);
+    
+    position: absolute;
+    border-radius:10px;
+    background-color:rgb(21, 39, 63) !important;
+}
+.content{
+    background-color:rgb(21, 39, 63) !important;
+    padding-left: 15px;
+    margin-top: 10px;
+    
+    letter-spacing: 1px;
+}
+img{
+    height: 200px;
+    width: 240px;
+    border-radius: 5px;
+    background-color:rgb(21, 39, 63) !important;
+    position: relative;
+    top: 15px;
+    left: 13px;
+}
+.crea{
+     color:rgb(108, 129, 158) !important;
+     font-family: 'Courier New', Courier, monospace; 
+     font-size: 12px;
+     font-weight: 800;
+     position: relative;
+     border-radius: 20px;
+     background-color:rgb(21, 39, 63);
+}
+h4{
+    font-size: 15px;
+    color: white;
+    padding-left: 20px;
+    background-color:rgb(21, 39, 63);
+    font-family: 'Rubik', sans-serif;
+    letter-spacing: 1px;
+}
+.our{
+    font-size: 12px;
+    text-align: center !important;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(138, 164, 199);
+    background-color:rgb(21, 39, 63);
+}
+.dym{
+    height: 15px;
+    width: 10px;
+}
+.clk{
+    height: 15px;
+    width: 10px;
+    margin-left: 75px;
+}
+.eth{
+    font-size: 11px;
+    margin-left: 16px;
+    color: rgb(42, 230, 222);
+    background-color:rgb(21, 39, 63);
+    position: relative;
+    top: 13px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    letter-spacing: 1px;
+    font-weight: 700;
+   
+}
+.day{
+    font-size: 11px;
+    margin-left: 15px;
+    color: rgb(248, 232, 232);
+    background-color:rgb(21, 39, 63);
+    opacity: 0.4;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    letter-spacing: 1px;
+    font-weight: 700;
+   
+    position: relative;
+    top: 10px;
+}
+.hub{
+    background-color:rgb(22, 40, 64);
+    font-size: 11px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.line{
+    width: 235px;
+    height: 1px; 
+    opacity: 0.3;
+    color: rgb(22, 40, 64);
+    background-color: rgb(105, 128, 160);
+    margin-left: 10px;
+}
+.ava{
+    height: 30px;
+    width: 30px;
+
+}
+.crea{
+    margin-left: 15px;
+    padding: 3px;
+}
